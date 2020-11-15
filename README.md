@@ -1,5 +1,7 @@
 # Next + Netlify + TypeScript Starter
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89f6c73a-bfb3-4a15-8b99-36467ea37f3a/deploy-status)](https://app.netlify.com/sites/next-netlify-typescript-starter/deploys)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and set up to be instantly deployed to [Netlify](https://netlify.com).
 
 Deployment on Netlify can be [configured](https://docs.netlify.com/configure-builds/file-based-configuration/) using `netlify.toml`.
