@@ -1,8 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next + Netlify + TypeScript Starter
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and set up to be instantly deployed to [Netlify](https://netlify.com).
+
+Deployment on Netlify can be [configured](https://docs.netlify.com/configure-builds/file-based-configuration/) using `netlify.toml`.
+
+### Installation options
+
+**Option one:** One-click deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cagmz/next-netlify-typescript-starter)
+
+1. Click this button, follow the Netlify prompts to allow access to your GitHub account, and allow it to create a clone of this repository on your account.
+2. Clone the new repository in your GitHub account
+
+**Option two:** Manual clone
+
+1. Clone this repo: `git clone https://github.com/cagmz/next-netlify-starter.git`
+2. Navigate to the directory and run `npm run dev`
+3. Make your changes
+4. Connect to [Netlify](https://netlify.com) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
 
 ## Getting Started
 
-First, run the development server:
+1. Install dependencies
+
+```bash
+npm install
+# or
+yarn
+```
+
+2. Run the development server:
 
 ```bash
 npm run dev
@@ -10,21 +38,4 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Open [http://localhost:3000](http://localhost:3000) to see the application and see changes in your browser by editing `pages/index.tsx`.
