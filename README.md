@@ -17,7 +17,7 @@ Deployment on Netlify can be [configured](https://docs.netlify.com/configure-bui
 
 **Option two:** Manual clone
 
-1. Clone this repo: `git clone https://github.com/cagmz/next-netlify-starter.git`
+1. Clone this repo: `git clone https://github.com/cagmz/next-netlify-typescript-starter.git` 
 2. Navigate to the directory and run `npm run dev`
 3. Make your changes
 4. Connect to [Netlify](https://netlify.com) manually (the `netlify.toml` file is the one you'll need to make sure stays intact to make sure the export is done and pointed to the right stuff)
