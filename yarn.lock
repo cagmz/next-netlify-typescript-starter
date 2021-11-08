@@ -68,17 +68,17 @@
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@napi-rs/triples/-/triples-1.0.3.tgz#76d6d0c3f4d16013c61e45dfca5ff1e6c31ae53c"
 
-"@next/env@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/env/-/env-12.0.2.tgz#e823e0784ba932982568589e8e1fda1bf4949715"
+"@next/env@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/env/-/env-12.0.3.tgz#e676b4d1454d8b6be433a348e99f2b8276ab6cd7"
 
-"@next/polyfill-module@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/polyfill-module/-/polyfill-module-12.0.2.tgz#1b329fcc8b54092ea936e0aaad259215fd76753f"
+"@next/polyfill-module@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/polyfill-module/-/polyfill-module-12.0.3.tgz#4217e5284762124bf9fe2505622c4de89998f7a2"
 
-"@next/react-dev-overlay@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/react-dev-overlay/-/react-dev-overlay-12.0.2.tgz#0a8a6b614678ab34a23c4e2165e563489c1e38bd"
+"@next/react-dev-overlay@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/react-dev-overlay/-/react-dev-overlay-12.0.3.tgz#d85a609bf7d75eb190940d0fc64eff94c0e4a478"
   dependencies:
     "@babel/code-frame" "7.12.11"
     anser "1.4.9"
@@ -92,53 +92,53 @@
     stacktrace-parser "0.1.10"
     strip-ansi "6.0.1"
 
-"@next/react-refresh-utils@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/react-refresh-utils/-/react-refresh-utils-12.0.2.tgz#cfed1047ea2be314747e83a95f4d139c6f100742"
+"@next/react-refresh-utils@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/react-refresh-utils/-/react-refresh-utils-12.0.3.tgz#1389b0370e258634432d6dd78f889c09a8328e10"
 
-"@next/swc-android-arm64@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-android-arm64/-/swc-android-arm64-12.0.2.tgz#3e08f4781031c8f671a42f7dbf1bd152d4c57207"
+"@next/swc-android-arm64@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-android-arm64/-/swc-android-arm64-12.0.3.tgz#8b99b3e7f13dda1f4c3c6dc83af73d8f40afecd5"
 
-"@next/swc-darwin-arm64@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.0.2.tgz#6d546b230610b3a7417ebef545865192e6cf3590"
+"@next/swc-darwin-arm64@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.0.3.tgz#a385e610fb4a20c47355520b82a79d08e0f6441e"
 
-"@next/swc-darwin-x64@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-12.0.2.tgz#a49e48c188fe083bb23f84ed22db03e9560a0635"
+"@next/swc-darwin-x64@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-12.0.3.tgz#0405a3838a652b7bb44c5cd5d920c11240194385"
 
-"@next/swc-linux-arm-gnueabihf@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-12.0.2.tgz#154987bd7a5634f87faef13238541cef6d304279"
+"@next/swc-linux-arm-gnueabihf@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm-gnueabihf/-/swc-linux-arm-gnueabihf-12.0.3.tgz#f5d43be7314044526fd9f1eef34337bb95f02e01"
 
-"@next/swc-linux-arm64-gnu@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.0.2.tgz#7c7d3df354960dfd8eaafcd945d5ebc7e218a125"
+"@next/swc-linux-arm64-gnu@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-gnu/-/swc-linux-arm64-gnu-12.0.3.tgz#6f1cda1dadabcc4d4f13bd6f5ce23b9879bc6d73"
 
-"@next/swc-linux-arm64-musl@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-12.0.2.tgz#aad8d6a66d463ca6e6330c2d7ec361beb7ad78df"
+"@next/swc-linux-arm64-musl@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-arm64-musl/-/swc-linux-arm64-musl-12.0.3.tgz#1eedc1f1fcafc9862ef7e83205ada96bf320a694"
 
-"@next/swc-linux-x64-gnu@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.0.2.tgz#79a6eb1287c2b185dd7271eec561dac23a1c3506"
+"@next/swc-linux-x64-gnu@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.0.3.tgz#eca85107b01a7571957ae25104d11042e9835a49"
 
-"@next/swc-linux-x64-musl@12.0.1":
-  version "12.0.1"
-  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.0.1.tgz#4b7e5fee5a62adb6d9c9aad1a4aa00a6a09b53dc"
+"@next/swc-linux-x64-musl@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-12.0.3.tgz#758656b8e36a520c03763d154c366bec889c56b3"
 
-"@next/swc-win32-arm64-msvc@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-12.0.2.tgz#0783cf20f211a921facf2dfcd847f7b17048209a"
+"@next/swc-win32-arm64-msvc@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-arm64-msvc/-/swc-win32-arm64-msvc-12.0.3.tgz#3f8ab8fa3367d729e49b3072fb24f9d0f8af7c21"
 
-"@next/swc-win32-ia32-msvc@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-12.0.2.tgz#c48f8f5be7728f8bbb0a864727dcbd816f06784f"
+"@next/swc-win32-ia32-msvc@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-ia32-msvc/-/swc-win32-ia32-msvc-12.0.3.tgz#e3df153a4e0c896a5871f1d26c7e176fa1ceec72"
 
-"@next/swc-win32-x64-msvc@12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.0.2.tgz#5eb3f054395fb2b1c57b981c446df17d0507febd"
+"@next/swc-win32-x64-msvc@12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.0.3.tgz#c3e4af29cd74190b89461ccc26b932ae4c27f99d"
 
 "@types/node@*", "@types/node@^16.11.6":
   version "16.11.6"
@@ -928,17 +928,17 @@ nanoid@^3.1.23:
   version "3.1.25"
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.25.tgz#09ca32747c0e543f0e1814b7d3793477f9c8e152"
 
-next@12.0.2:
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/next/-/next-12.0.2.tgz#269512cdf14d12c535c12240280da95e7be2d006"
+next@12.0.3:
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/next/-/next-12.0.3.tgz#325732ceb4193306a9a31912815fc570d1a66641"
   dependencies:
     "@babel/runtime" "7.15.4"
     "@hapi/accept" "5.0.2"
     "@napi-rs/triples" "1.0.3"
-    "@next/env" "12.0.2"
-    "@next/polyfill-module" "12.0.2"
-    "@next/react-dev-overlay" "12.0.2"
-    "@next/react-refresh-utils" "12.0.2"
+    "@next/env" "12.0.3"
+    "@next/polyfill-module" "12.0.3"
+    "@next/react-dev-overlay" "12.0.3"
+    "@next/react-refresh-utils" "12.0.3"
     acorn "8.5.0"
     assert "2.0.0"
     browserify-zlib "0.2.0"
@@ -982,17 +982,17 @@ next@12.0.2:
     vm-browserify "1.1.2"
     watchpack "2.1.1"
   optionalDependencies:
-    "@next/swc-android-arm64" "12.0.2"
-    "@next/swc-darwin-arm64" "12.0.2"
-    "@next/swc-darwin-x64" "12.0.2"
-    "@next/swc-linux-arm-gnueabihf" "12.0.2"
-    "@next/swc-linux-arm64-gnu" "12.0.2"
-    "@next/swc-linux-arm64-musl" "12.0.2"
-    "@next/swc-linux-x64-gnu" "12.0.2"
-    "@next/swc-linux-x64-musl" "12.0.1"
-    "@next/swc-win32-arm64-msvc" "12.0.2"
-    "@next/swc-win32-ia32-msvc" "12.0.2"
-    "@next/swc-win32-x64-msvc" "12.0.2"
+    "@next/swc-android-arm64" "12.0.3"
+    "@next/swc-darwin-arm64" "12.0.3"
+    "@next/swc-darwin-x64" "12.0.3"
+    "@next/swc-linux-arm-gnueabihf" "12.0.3"
+    "@next/swc-linux-arm64-gnu" "12.0.3"
+    "@next/swc-linux-arm64-musl" "12.0.3"
+    "@next/swc-linux-x64-gnu" "12.0.3"
+    "@next/swc-linux-x64-musl" "12.0.3"
+    "@next/swc-win32-arm64-msvc" "12.0.3"
+    "@next/swc-win32-ia32-msvc" "12.0.3"
+    "@next/swc-win32-x64-msvc" "12.0.3"
 
 node-fetch@2.6.1:
   version "2.6.1"
